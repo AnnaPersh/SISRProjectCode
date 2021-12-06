@@ -1,0 +1,30 @@
+{
+    "epoch_num": [
+        0
+    ],
+    "epoch_loss": [
+        4872915.932983398
+    ],
+    "epoch_train_time": [
+        911.8869018554688
+    ],
+    "initial_lr": 0.001,
+    "batch_size": 75,
+    "bn_momentum": 0.9,
+    "bn_eps": 0.0001,
+    "net_depth": 20,
+    "epoch_mean_psnr": [
+        26.801537346825473
+    ],
+    "epoch_mean_ssim": [
+        0.851774332393521
+    ],
+    "training_data_dirs": [
+        "C:\\Users\\yinli\\Desktop\\Project_DLTP\\data\\project_painting_data\\Combined_Training\\Part5",
+        "C:\\Users\\yinli\\Desktop\\Project_DLTP\\data\\project_painting_data\\Combined_Training\\Part1",
+        "C:\\Users\\yinli\\Desktop\\Project_DLTP\\data\\project_painting_data\\Combined_Training\\Part2",
+        "C:\\Users\\yinli\\Desktop\\Project_DLTP\\data\\project_painting_data\\Combined_Training\\Part3",
+        "C:\\Users\\yinli\\Desktop\\Project_DLTP\\data\\project_painting_data\\Combined_Training\\Part4"
+    ],
+    "learnrate_type": "exponential"
+}

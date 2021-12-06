@@ -1,0 +1,7 @@
+One model, using the best hyperparameters from the parameter tuning, was trained over
+50 epochs on SISR Set 5.
+
+Note that a net depth of 20 is used, rather than 10, as would be suggested by the
+parameter tuning results.  This is because the neural network has similar performance
+to the 10-layer, and may have more strength in learning features of larger datasets in
+upcoming project tasks.
